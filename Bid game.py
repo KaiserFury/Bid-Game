@@ -1,6 +1,6 @@
 import os
 from Art import bid_logo
-
+# the person how pay more money will get the price
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
