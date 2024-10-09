@@ -49,7 +49,7 @@ The highest bid was made by 'Bob' of amount '$150'
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - The `Art` package for displaying the `bid_logo`.
 
 ## How it Works
